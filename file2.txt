@@ -1,2 +1,1 @@
-my second file
-line added
+file2
